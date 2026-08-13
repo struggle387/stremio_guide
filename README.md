@@ -1,5 +1,5 @@
-## Guide to Setting Up Stremio with Real Debrid 
-Follow the steps below to integrate Real Debrid with Stremio.
+## Guide to Setting Up Stremio with Tor Box
+Follow the steps below to integrate TorBox with Stremio.
 
 
 #### Step 1: Create a Stremio Account
@@ -7,9 +7,9 @@ Go to [Stremio's Official Website](https://www.stremio.com/)
 Click on "Sign Up" and follow the process to create your account.
 
 
-#### Step 2: Create a Real-Debrid Account
+#### Step 2: Create a TorBox Account
 Visit [TorBox's](https://www.torbox.app/) Website.
-Sign up for an account. A Real Debrid subscription costs €4 for 30 days or €16 for 180 days.
+Sign up for an account.
 
 
 #### Step 3: Access Stremio Account Bootstrapper
@@ -33,12 +33,13 @@ Open the developer tools (usually with F12 or Ctrl+Shift+I), go to the Console t
 Go to [TorBox API Token Page](https://torbox.app/settings?section=account),
 Log in with your TorBox account if you haven't already.
 Copy your API private token. Do not share this API private token with others.
+<img width="881" height="166" alt="image" src="https://github.com/user-attachments/assets/bb00e272-e87f-4c75-b2d0-2851d9fb10e1" />
 
 
 
 #### Step 6: Configure Settings on Bootstrapper
 In the Stremio Account Bootstrapper, you will have an option to select settings.
-Paste your API private token into the real debrid API key box. 
+Paste your API private token into the TorBox API key box. 
 Set any additional preferences you need for your account.
 Choose the following options to ensure everything is set up correctly:
 
