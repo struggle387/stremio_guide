@@ -44,14 +44,16 @@ Set any additional preferences you need for your account.
 Choose the following options to ensure everything is set up correctly:
 
  !!! MAKE SURE TO SELECT Cached-only (debrid) !!!
-<img width="1003" height="1082" alt="Screenshot From 2025-09-26 12-28-35" src="https://github.com/user-attachments/assets/101f7f14-f6cb-4362-8cdf-9856fdaf436f" />
+<img width="953" height="1273" alt="image" src="https://github.com/user-attachments/assets/39063991-74a4-4104-8f6f-284082d11d70" />
+
 
 
 #### Step 7: Load Preset and Sync to Stremio
 After configuring the settings, click on Load Preset.
 Confirm that the preset matches the settings provided.
 Once confirmed, click on Sync to Stremio to apply the settings.
-<img width="949" height="818" alt="Screenshot From 2025-09-26 13-14-12" src="https://github.com/user-attachments/assets/ef5ddffb-80b3-47df-a876-3367917adb18" />
+<img width="946" height="1172" alt="image" src="https://github.com/user-attachments/assets/4a689d36-d7ed-4072-80c7-ef16c482b81b" />
+
 
 
 #### Step 8: Log into Stremio
