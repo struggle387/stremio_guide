@@ -8,7 +8,7 @@ Click on "Sign Up" and follow the process to create your account.
 
 
 #### Step 2: Create a Real-Debrid Account
-Visit [Real-Debrid's](https://real-debrid.com/) Website.
+Visit [TorBox's](https://www.torbox.app/) Website.
 Sign up for an account. A Real Debrid subscription costs €4 for 30 days or €16 for 180 days.
 
 
@@ -29,11 +29,11 @@ Open the developer tools (usually with F12 or Ctrl+Shift+I), go to the Console t
 ``JSON.parse(localStorage.getItem("profile")).auth.key``
 
 
-#### Step 5: Get Your Real Debrid API Token
-Go to [Real-Debrid API Token Page](https://real-debrid.com/apitoken),
-Log in with your Real Debrid account if you haven't already.
+#### Step 5: Get Your Debrid API Token
+Go to [TorBox API Token Page](https://torbox.app/settings?section=account),
+Log in with your TorBox account if you haven't already.
 Copy your API private token. Do not share this API private token with others.
-<img width="1007" height="434" alt="Screenshot From 2025-09-26 12-28-13" src="https://github.com/user-attachments/assets/5c063205-4307-4d98-8fa0-e15bf29c5345" />
+
 
 
 #### Step 6: Configure Settings on Bootstrapper
