@@ -13,7 +13,7 @@ Sign up for an account.
 
 
 #### Step 3: Access Stremio Account Bootstrapper
-Visit the [Stremio Account Bootstrapper](https://stremio-account-bootstrapper.vercel.app/) website.
+Visit the [Stremio Account Bootstrapper](https://bootstrapper.stremx.net/) website.
 
 
 #### Step 4: Input Stremio Account Information
